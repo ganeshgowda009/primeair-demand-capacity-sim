@@ -1,0 +1,17 @@
+# Demand Forecasting & Capacity Planning Simulation
+
+## Overview
+This project demonstrates a lightweight demand planning workflow including:
+- Rolling 3-month demand forecasting
+- Inventory projection (Ending Inventory + MOS)
+- Capacity utilization analysis
+- Demand spike scenario simulation (+20%)
+
+## Business Context
+Last-mile delivery operations require accurate forecasting and capacity planning to maintain service-level targets while controlling cost. This project shows how demand variability impacts inventory risk and operational readiness.
+
+## Key Features
+- Forecast: Rolling 3-month average
+- Inventory Projection: Ending Inventory simulation + Months of Supply (MOS)
+- Capacity Planning: Utilization% baseline vs demand-spike scenario
+- Outputs: PNG plots + CSV results
